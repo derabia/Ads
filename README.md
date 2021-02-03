@@ -15,12 +15,12 @@
             size: [300, 250],
             div: 'div-gpt-ad-0123456789-0',
             style:{
-                adbackgroundcolor:'',
-                adbackgroundblur:'',
-                backgroundcolor:'',
-                backgroundblur:'',
+                adbackgroundcolor:'rgba(255,255,255,0.8)',
+                adbackgroundblur:3,
+                backgroundcolor:'rgba(0,0,0,0.5)',
+                backgroundblur:5,
                 icon:'',
-                iconbackground:'',
+                iconbackground:'#fff',
                 showcloseiconafter:5,
             }
         });
