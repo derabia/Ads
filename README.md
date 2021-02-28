@@ -6,7 +6,7 @@ derabia Ads
 
 ```
 <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
-<script src="https://cdn.jsdelivr.net/gh/derabia/Ads/pop.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/derabia/Ads@latest/pop.js"></script>
 
 <script>
         popAd({
